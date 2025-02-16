@@ -91,7 +91,7 @@ const PollSchema = new mongoose.Schema({
 1. Clone the repository:
 
 ```sh
-git clone https://github.com/your-repo/polling-app.git
+git clone https://github.com/HemantKumarrr/pollin-app.git
 ```
 
 2. Install dependencies:
